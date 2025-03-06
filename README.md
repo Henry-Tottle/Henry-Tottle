@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Henry-Tottle
-- 👀 I’m interested in learning how to be a full stack developer.
-- 🌱 I’m currently learning full stack development.
-- 💞️ I’m looking to collaborate on... watch this space.
-- 📫 How to reach me ...TBC
+- 👀 I’m interested in starting my career as a full stack developer.
+- 🌱 I’m currently learning Next.js.
+- 📫 How to reach me henrywilliamtottle@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Is considered a Djentleman.
 
